@@ -4,7 +4,7 @@
 
 
 
-## Small Demo in using React .js and Spotify-API 
+## -Small Demo in using React .js and Spotify-API 
 go to this website coppy the token and pasted in your project to be able to run your project 
 https://developer.spotify.com/console/get-new-releases/?country=&limit=&offset=
 <!--  -->
