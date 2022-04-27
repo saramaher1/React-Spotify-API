@@ -1,7 +1,13 @@
 # React-Spotify-API
 
-##Small Demo in using React .js and Spotify-API
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/79480685/165492376-712c6316-3333-495e-abca-ec5f367dfc97.gif)
+
+
+
+##Small Demo in using React .js and Spotify-API 
+go to this website coppy the token and pasted in your project to be able to run your project 
+https://developer.spotify.com/console/get-new-releases/?country=&limit=&offset=
+
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
